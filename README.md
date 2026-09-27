@@ -19,7 +19,9 @@ shared definitions and the outputs of the phases before it.
 | `phase4.ipynb` | Final report and artifact hashes |
 | `phases.md`, `RUNBOOK.md`, `TRADEOFFS.md` | Status, operating steps, known limits |
 
-Images and run outputs are not in this repository. The dataset is public:
+Images and model checkpoints are not in this repository; the splits, run
+outputs, and analysis files are, with SHA-256 hashes in `SHA256SUMS`
+(generated after the study, on 2026-09-27). The dataset is public:
 MuReD, doi:10.17632/pc4mb3h8hz.1. Running `phase0.ipynb` against the
 official label tables and `images.zip` rebuilds the cohort, splits, and
 cache; later phases rebuild everything else. Training is deterministic and

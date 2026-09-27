@@ -1,0 +1,1 @@
+run_id,status,finished_utc,wall_seconds,peak_gpu_bytes,best_inner_macro_auc,error,definitions_sha256,notebook_sha256,gpu

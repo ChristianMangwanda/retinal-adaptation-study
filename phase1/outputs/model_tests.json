@@ -1,0 +1,39 @@
+{
+  "environment": {
+    "definitions_sha256": "cfcf3a434b8e82ce21ef86fdf1f548d338cab1ee53a6fd1d81d91bdf8d89a813",
+    "gpu": "NVIDIA A100-SXM4-80GB",
+    "packages": {
+      "matplotlib": "3.10.7",
+      "nbformat": "5.10.4",
+      "numpy": "2.2.6",
+      "opencv-python-headless": "4.12.0.88",
+      "pandas": "2.3.3",
+      "pillow": "12.0.0",
+      "scikit-learn": "1.7.2",
+      "torch": "2.8.0+cu128",
+      "torchvision": "0.23.0+cu128"
+    },
+    "platform": "Linux-6.8.0-124-generic-x86_64-with-glibc2.39",
+    "python": "3.12.3",
+    "pythonhashseed": "2026",
+    "timestamp_utc": "2026-08-23T21:04:09Z"
+  },
+  "parameter_counts": {
+    "capacity_neck": 232896,
+    "dka": 75856,
+    "mhc_neck": 232812,
+    "residual_neck": 134400,
+    "standard_adapter": 76837
+  },
+  "tests": {
+    "1 adapter shapes equal input": true,
+    "2 adapters are identity at init": true,
+    "3 necks equal at init": true,
+    "4 sinkhorn sums within 1e-5": true,
+    "5 no backbone gradient": true,
+    "6 no batch-norm statistic change": true,
+    "7 registered parameter counts": true,
+    "8 adapter mismatch under 2%": true,
+    "9 capacity mismatch under 0.1%": true
+  }
+}

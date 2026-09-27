@@ -1,0 +1,12 @@
+{
+  "cell_summary.csv": "4ff9104b9ad4c6de16289e35db286b943a0dd8a8bf311859f11b9b58475bc315",
+  "confirmatory_table.csv": "e7645b66ad9723fbcd44d106013abd8e9bf655ff25cabc3d2580a886028104c0",
+  "experiment_changes.csv": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "exploratory_capacity.csv": "9e57aefe1868a3e7b20bf4f3f0e5cc7d9faf2c634cb79014712169fa15f1fcfb",
+  "failed_runs.csv": "3506cc253e9b2282d567c5592058afcaec7633d42934e580e6040648ea75433a",
+  "fig_c4_effect_vs_n.png": "8db3c6ac07356971d08fcabcb9db03bf2c27c9f8bb1cb279cb4ae14c9eb45897",
+  "fig_fold_auc_by_cell.png": "2b317b58563c870d541505add5ccaf844ac97b16dc92966425d5df593dfe68a4",
+  "fold_macro_auc.csv": "b874a049e4c9ac3ac84dadc6696a9dd3e4e952a195d3d894305b230965936d4f",
+  "kernel_study.csv": "bdb492b1b53a55566a6ec7dc042d53a7db7a5ad69ffcc9aa0ee7322ed523a282",
+  "report.md": "500d7f576868a2a17331eeb38bbd6ab8eaf539e07eded5063003b98657771a0a"
+}

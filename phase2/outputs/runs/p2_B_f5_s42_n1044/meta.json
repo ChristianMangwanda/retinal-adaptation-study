@@ -1,0 +1,16 @@
+{
+  "amp": true,
+  "best_inner_macro_auc": 0.9254941431023351,
+  "cell": "B",
+  "device": "cuda",
+  "dka_large": null,
+  "finetune_best_epoch": 24,
+  "fold": 5,
+  "n": 1044,
+  "peak_gpu_bytes": 603962368,
+  "seed": 42,
+  "trainable_parameters": 740181,
+  "wall_seconds": 534.0,
+  "warmup_best_epoch": 14,
+  "warmup_epochs_run": 15
+}

@@ -1,0 +1,167 @@
+{
+  "artifact_sha256": {
+    "phase0/artifacts/cache_manifest.csv": "70969ed0fd7f989d71986506ade571f9bb20f9253660c02c1912b2e4497426af",
+    "phase0/artifacts/cohort.csv": "9252929f5b55e091a27e22ab18a198c2ce7705661acb7dd57afa0136f7e76e00",
+    "phase0/artifacts/inner_splits.csv": "bbaeea8874633dc88aaecd9d7dfa1b7e981a8a05c48bc2ee2d6169f14e083bfe",
+    "phase0/artifacts/outer_folds.csv": "1cff5808d8b2d1fdfa18970bf3e6f3da6e943ae76f50c5f5305e4a7bdcfbb49c",
+    "phase0/artifacts/subsets/subset_f1_s42_n100.csv": "c3c830d3a83ee7a1aa1eac2b31533a5196f9efc88044c2000104c3ee88fa478b",
+    "phase0/artifacts/subsets/subset_f1_s42_n1044.csv": "21135e503f95c3227ba437784aed2d12afbf6b583acf95e26c9f5389de0a834d",
+    "phase0/artifacts/subsets/subset_f1_s42_n251.csv": "951550e9b07c9a380c74f6428e3ebe5ef3e02c39ef56497f0eec87b561ed2fc0",
+    "phase0/artifacts/subsets/subset_f1_s42_n50.csv": "f497014e3a2dd0cc90fb64408f0aa53592a11db3dbe2f0e05545767b327826a0",
+    "phase0/artifacts/subsets/subset_f1_s42_n501.csv": "d5a5e4f3951b795a283b38139054f6afd866df1194e960a6914a45d594eca84b",
+    "phase0/artifacts/subsets/subset_f1_s43_n100.csv": "cc153b3acf3c445c85542d9b969926636dcf20230f2d3696b084e13fdbc7851c",
+    "phase0/artifacts/subsets/subset_f1_s43_n50.csv": "5d44da569a63dffe93d0ba4ff8cda86d573f42a97b470867135d5b77829ccf9a",
+    "phase0/artifacts/subsets/subset_f1_s44_n50.csv": "d55304f8882c691e5874c214acc4fa6e558b09e0d1440201485a1f6273dd726b",
+    "phase0/artifacts/subsets/subset_f2_s42_n100.csv": "a46dc7836eff1e6f9eda81ff18d3a9c0263c4ff3f7ec1d876339a87a891efe0e",
+    "phase0/artifacts/subsets/subset_f2_s42_n1044.csv": "8fae2a33ea86fa6b42c12b2510ae7bfdc3be19f845baa735ee1efe12de3ed1cc",
+    "phase0/artifacts/subsets/subset_f2_s42_n251.csv": "9bbfb563fedfe939604e0e54eface4b224593258ac9bd4eabf68b2fa40869eaa",
+    "phase0/artifacts/subsets/subset_f2_s42_n50.csv": "9b10af8f4afd28a2a46c6682abb07dafe0ce2b4d335b29edcca31d21413af19e",
+    "phase0/artifacts/subsets/subset_f2_s42_n501.csv": "79a31c1b2739d153a6309961b9bbb92c3403d7ee3f5361cea703e2570bb5ce42",
+    "phase0/artifacts/subsets/subset_f2_s43_n100.csv": "9b8ce15995f37f6ef660fcb7bbac1161832fa3d6639d5fc43c5a0d71669a3eae",
+    "phase0/artifacts/subsets/subset_f2_s43_n50.csv": "c07c4a84439d2621f2383646955a8c0c676ab1cd72fc8ed4a7720af637cdf4d2",
+    "phase0/artifacts/subsets/subset_f2_s44_n50.csv": "386054e3bac09a6b0e4a2b30be9dbe2c0550b92d23535cef41f5cc6bfef5a105",
+    "phase0/artifacts/subsets/subset_f3_s42_n100.csv": "8968587b77a55efb29514d7334ff613b4ba56ef2d8b4d5e29c3ad656119000c8",
+    "phase0/artifacts/subsets/subset_f3_s42_n1044.csv": "7b1c28d8575f4d85c6abc7cd60d8678fa1a9f50116b713daf35b82294563ab56",
+    "phase0/artifacts/subsets/subset_f3_s42_n251.csv": "d0481539ff168e055a6e3b1b0ec5197170164d6942e8997fa00dc929abb5d501",
+    "phase0/artifacts/subsets/subset_f3_s42_n50.csv": "1e88a06b0c9d7c41e845b2c9e500d9936469473f6fa887ae7a3fb8b35e5db632",
+    "phase0/artifacts/subsets/subset_f3_s42_n501.csv": "ba599849748e2e90ca0ab5b9d2669df00e58e9749c2749c628dac10401aed5eb",
+    "phase0/artifacts/subsets/subset_f3_s43_n100.csv": "60dc5a8870cd7bbfc160f6eb63cadc506722ff25f26e0c37344d1a25a608d383",
+    "phase0/artifacts/subsets/subset_f3_s43_n50.csv": "7691e4c4a53cb2452b2b5aef99341ae72f6e87e5b37eca1c45e91ae05c609ea7",
+    "phase0/artifacts/subsets/subset_f3_s44_n50.csv": "9384bc359fe30a07975a0782549660cfdcea2d1273fc6bef07f27e8fb0268a1f",
+    "phase0/artifacts/subsets/subset_f4_s42_n100.csv": "3b032410baf9d16cf5a2fe2049a3672e6cafece0df6ea8abe7b9307a86805e54",
+    "phase0/artifacts/subsets/subset_f4_s42_n1044.csv": "c74684fda19a85ef165b8c3d14ed44c40a26a65f7ed9e54dc080cf127db6b873",
+    "phase0/artifacts/subsets/subset_f4_s42_n251.csv": "d43e47d81668dacfd4e52b574d25ecc12bcb65eceb2f40ac2b15949f43e71829",
+    "phase0/artifacts/subsets/subset_f4_s42_n50.csv": "4fc9fc41317eae662cef2dddf8e55fe7c69dc1525aabc9c6edb87221575eb923",
+    "phase0/artifacts/subsets/subset_f4_s42_n501.csv": "2e1a9ba1f5f94ffa03048391c1ff8b82310b3bda467446a6a8b7f34e9d073798",
+    "phase0/artifacts/subsets/subset_f4_s43_n100.csv": "dd3d0188e74d5843816138dc9651fbc87c3b9f362201876f4f8e25d688dc181e",
+    "phase0/artifacts/subsets/subset_f4_s43_n50.csv": "be78e969a00e112fc25abd113f0d462dd1da07e3d1e2cfd1f98db12471a4c1eb",
+    "phase0/artifacts/subsets/subset_f4_s44_n50.csv": "22eedf974cdcc51832944382fd3aad83c6dd493859c9bca351ef03e64ff62279",
+    "phase0/artifacts/subsets/subset_f5_s42_n100.csv": "8137e1abb5bfe88b12b6da7c35caf8698c42d48a7ba9b4088753b9a80cb4a813",
+    "phase0/artifacts/subsets/subset_f5_s42_n1044.csv": "c2924c8f9241474e1998ed0554380ef1b6871e4f29c09695d353d531053c7380",
+    "phase0/artifacts/subsets/subset_f5_s42_n251.csv": "8cfce89b68d8f0180ef55517804308909df9ba12856626fd3d1a83ee50984dcc",
+    "phase0/artifacts/subsets/subset_f5_s42_n50.csv": "fe9a1ab05ee64b8cbab4b33be298c8e02e32cca5ba58204d40898e78b41a9d6c",
+    "phase0/artifacts/subsets/subset_f5_s42_n501.csv": "56ab5e0464956275a80d6f1d5155773e766409696489f411484fc4bc7953b3fc",
+    "phase0/artifacts/subsets/subset_f5_s43_n100.csv": "f29f685173d4f3174974bb0e9e1b696d5bbb40d8ba77633053557d1991bf77b6",
+    "phase0/artifacts/subsets/subset_f5_s43_n50.csv": "64763c717619ac1666653d36d336ad6ae6e1a3f379d3fef32575201d6db4608d",
+    "phase0/artifacts/subsets/subset_f5_s44_n50.csv": "4cde73bb5ecbdb14ddc005b35664e796dfc138fe0cf51c049f3a8d5e3c247127"
+  },
+  "cohort_sha256": "9252929f5b55e091a27e22ab18a198c2ce7705661acb7dd57afa0136f7e76e00",
+  "confirmed_duplicate_pairs": [
+    [
+      "1077",
+      "969"
+    ],
+    [
+      "1133",
+      "1207"
+    ],
+    [
+      "1337",
+      "1396"
+    ],
+    [
+      "1437",
+      "539"
+    ],
+    [
+      "1704",
+      "1875"
+    ],
+    [
+      "1770",
+      "1871"
+    ],
+    [
+      "1875",
+      "1879"
+    ],
+    [
+      "527",
+      "64"
+    ],
+    [
+      "822",
+      "827"
+    ]
+  ],
+  "constants": {
+    "fit_images_per_fold": 1044,
+    "hires_verifier": {
+      "clahe_clip": 3.0,
+      "clahe_grid": 8,
+      "confirm_inliers": 40,
+      "fast_threshold": 10,
+      "mask_erode": 31,
+      "mask_luminance": 10,
+      "orb_features": 4000,
+      "ransac_confidence": 0.999,
+      "ransac_iters": 5000,
+      "ransac_px": 3.0,
+      "review_inliers": 18,
+      "rng_seed": 2026,
+      "side": 768
+    },
+    "label_table_sha256": {
+      "train_data.csv": "a40f340cba6dd7141a3194214434b51484186dec8903e25d096853b995a5a7ee",
+      "val_data.csv": "d7967f05e7f422002e071cdd5288cf822185ac86ad9f237fe698b29915223fb7"
+    },
+    "outer_test_capacity": {
+      "1": 298,
+      "2": 298,
+      "3": 298,
+      "4": 298,
+      "5": 297
+    },
+    "phash_hamming_max": 8,
+    "preprocessing_version": "fov-crop-224-v1",
+    "seed_subset_sizes": {
+      "42": [
+        50,
+        100,
+        251,
+        501,
+        1044
+      ],
+      "43": [
+        50,
+        100
+      ],
+      "44": [
+        50
+      ]
+    },
+    "split_seed": 2026,
+    "subset_sizes": [
+      50,
+      100,
+      251,
+      501,
+      1044
+    ],
+    "targets": [
+      "DR",
+      "NORMAL",
+      "ODC",
+      "MH",
+      "DN"
+    ]
+  },
+  "environment": {
+    "definitions_sha256": "2d26922f5fbb2e426faf38ff5f002956804e6dc62e26c6480508c203e252c842",
+    "packages": {
+      "matplotlib": "3.10.7",
+      "nbformat": "5.10.4",
+      "numpy": "2.2.6",
+      "opencv-python-headless": "4.12.0.88",
+      "pandas": "2.3.3",
+      "pillow": "12.0.0",
+      "scikit-learn": "1.7.2",
+      "torch": "2.10.0",
+      "torchvision": "0.25.0"
+    },
+    "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+    "python": "3.13.7",
+    "pythonhashseed": "2026",
+    "timestamp_utc": "2026-08-23T07:08:41Z"
+  }
+}
