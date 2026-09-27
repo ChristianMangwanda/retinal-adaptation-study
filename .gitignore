@@ -15,6 +15,11 @@ output/
 tmp/
 build_proposal.py
 build_proposal_plain.py
+paper_v3/
+correct_christian_proposal.py
+
+# unrelated coursework
+submission/
 
 # system files
 .DS_Store
